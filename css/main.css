@@ -184,6 +184,7 @@ margin: 5.000em 0;
     background-size: cover;
 }
 .row-btm-content{
+  
 padding-bottom: 3.333rem;
     height:33.333rem;
     display: flex;
@@ -351,9 +352,12 @@ footer{
     line-height: 139%;
     letter-spacing: 0.007rem;
     
-    color: #458D7E;
+    
     list-style: none;
     
+}
+.footer-nav ul li{
+    color: #458D7E;
 }
 .social-icon-container{
     display: flex;

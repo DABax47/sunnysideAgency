@@ -418,125 +418,7 @@ footer{
     
 }
 /* end animation  */
-/* @media  screen and (max-width:425px) {
-    
-    .active{
-        height:12.278em ;
-        width: 10em;
-    }
-} */
-/* @media screen and (max-width:768px) and (min-width:426px) {
-    .landing{
-        background-image: url('../images/desktop/image_header_lg.jpg');
-        height: 44.444em;
-    
-    }
-    
-    .row-top,
-    .row-mid{
-    
-     display: flex;
-    height:33.333rem;
-    
-    }
-    h2{
-        font-size: 2.222em;
-        text-align: left;
-    
-    }
-    .row-top{
-        flex-direction: row-reverse;
-    
-    }
-    .egg-img-container{
-     
-        background-image: url('../images/desktop/egg_lg.jpg');
-    }
-    .cup-img-container{
-       
-        background-image: url('../images/desktop/cup_lg.jpg');
-        
-    }
- 
-    .row-top-text,
-.row-mid-text{
-    padding: 7.167rem 2.167rem 4.167rem 2.167rem;
-    flex-basis: 50%;
-    text-align: left;
-    
 
-}
-.row-top-text p,
-.row-mid-text p{
-    
-    margin: 1.333em 0 1.778em 0;
-}
-
-.img-container{
-    height: 100%;
-    flex-basis: 50%;
-}
-
-
-.row-btm-design{
-    flex-basis: 50%;
-}
-.cherry-img-container{
-    background-image: url('../images/desktop/card_cherry_lg.jpg');
-}
-.orange-img-container{
-    background-image: url('../images/desktop/card_orange_lg.jpg'); 
-}
-
-.row-btm-content{
-padding-bottom: 3.333rem;
-padding-left:10.556em ;
-padding-right: 10.556em;    
-}
-
-
-
-
-.testimonials{
-    padding-left:   10em;
-    padding-right:  10em;
-
-    justify-content: space-around;
-  
-}
-
-
- 
-
-.standout-images-container{
-    
-    height: 50%;
-    margin-bottom:24.833rem;
-
-}
-.standout-image{
-height: 100%;
-background-position: center;
-
-}
-
-
-footer{
-    height:  19.444rem;
- 
-     justify-content: space-evenly;
- 
- }
- 
- 
- 
- .footer-nav ul {
-     width: 16.500rem;
-  
- }
- 
-    
-} */
  @media  screen and (min-width:769px) {
  .toggle-mobile-menu{
      display: none;
@@ -549,14 +431,33 @@ footer{
 .nav-links
 {
     
-    display:none;
+    display:inline-block;
     width: 25.944em;
     justify-content: space-around;
     align-items: center;
 }
+
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+  
+}
+.nav-links
+{
+
+    display: flex;
+list-style: none;
+    /* width: 100%; */
+    
+    
+}
+
 .nav-links a:nth-child(-n+3){
     color: #FFFFFF;
 }   
+
 .contact-link{
     background-color: #FFFFFF;
     transition: .3s;
@@ -564,7 +465,7 @@ footer{
 }
 .contact-link:hover{
     color: white;
-    background-color: #55C0F2;
+    background-color: #82d1f5;
     transition: .3s;
 }
 
@@ -654,10 +555,7 @@ display: flex;
     background-image: url('../images/desktop/card_orange_lg.jpg'); 
 }
 
-.row-btm-content{
-  
-  
-}
+
 
 
 

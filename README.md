@@ -16,7 +16,7 @@ Users should be able to:
 ### Screenshot
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
-![preview](https://i.ibb.co/mT6ZLJK/sunnyside.png)
+
 
 
 ### Links

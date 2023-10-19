@@ -5,7 +5,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 
 ## Overview
-FEM-Junior level-challenge
 ### The challenge
 Your challenge is to build out this landing page and get it looking as close to the design as possible.
 
@@ -16,18 +15,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
+![desktop](https://i.ibb.co/JFTsw6j/sunnyside-desktop.png)
+![mobile](https://i.ibb.co/0cS3HPn/sunnyside-mobile.png)
 
 
 ### Links
 
 - Solution: [My solution](https://www.frontendmentor.io/solutions/sunny-side-agency-q35t8GwUp)
-- Live Site: [Demo](https://dwayne-b.github.io/FEM-sunnysideAgency/)
+- Live Site: [Demo](https://admirable-tapioca-856bdb.netlify.app/)
 
 ## My process
-I follow a simple yet effective workflow utilizing jira to maintain steady progress.
-Design[:white_check_mark] -> Develope -> Test -> Done
-Luckily Front-end Mentor provided the designs
 #### Work flow
 
 - Review the design 
@@ -48,6 +45,7 @@ Luckily Front-end Mentor provided the designs
 - CSS 
 - JS
 - Flexbox
+- -css Grid
 - Mobile-first workflow
 
 
@@ -56,8 +54,8 @@ Luckily Front-end Mentor provided the designs
 ### What I learned
 
 I improved my file structure and organization.
-I Practiced good ol' Flexbox which I love. 
-Onto solidifying my knowledge of grid.
+I Practiced good ol' Flexbox. 
+solidifying my knowledge of grid.
 
 snippets
 
@@ -80,15 +78,15 @@ snippets
 
 
 ### Continued development
-
-build out the rest of the pages
+Create a full website adding the follwoing pages
 - About 
 - Services 
-- Projects
+- contact
 
 
 ### Useful resources
 - flexbox [css tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Grid [css trick](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 
 

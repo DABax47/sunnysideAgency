@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](https://i.ibb.co/JFTsw6j/sunnyside-desktop.png)
-![mobile](https://i.ibb.co/0cS3HPn/sunnyside-mobile.png)
+![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
+![preview](https://i.ibb.co/mT6ZLJK/sunnyside.png)
 
 
 ### Links
